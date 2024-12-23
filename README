@@ -1,0 +1,5 @@
+There are two values that are changeable in config.h.
+The first one is LEVELS. LEVELS determines the number of levels in the pagetable.
+A reasonable range of values for levels is 1 - 4. To change it simply delete the current value and replace it.
+The second one is POBITS. POBITS determines the number of bits that will be used in the page offset.
+A reasonable range of value for POBITS is 9 - 16. To change it simply delete the vurrent value and replace it.

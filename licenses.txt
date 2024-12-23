@@ -1,0 +1,6 @@
+LGPL Summary: allows companies and users to implement the code into the own software. 
+Reason: I chose not to use this license because it allows users to use my software into their own software
+MIT Summary allows users to use the code as long as it licensed. 
+Reason: Users can use the code as long as credit is given
+BSD Summary: Allows users to distrubute the code as long as the license remains on the shared code
+Reason: I chose not to use this because my code can be distrubuted everywhere with minimal restrictions
